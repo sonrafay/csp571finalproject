@@ -1,0 +1,6 @@
+,price,price,price,price,distance,distance,distance,distance,hour,hour,hour,hour,surge_multiplier,surge_multiplier,surge_multiplier,surge_multiplier
+,mean,std,min,max,mean,std,min,max,mean,std,min,max,mean,std,min,max
+kmeans_cluster,,,,,,,,,,,,,,,,
+0,0.11,0.06,0.0,0.38,0.24,0.12,0.0,0.69,5.28,3.54,0,11,1.0,0.03,1.0,1.75
+1,0.11,0.06,0.0,0.38,0.24,0.11,0.0,0.69,17.6,3.48,12,23,1.0,0.03,1.0,1.75
+2,0.27,0.09,0.03,1.0,0.43,0.14,0.05,1.0,11.78,6.37,0,23,1.06,0.19,1.0,3.0
